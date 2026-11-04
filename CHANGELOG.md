@@ -1,4 +1,8 @@
-## 鏇存柊
+## 鏇存柊 (v1.1.1)
+
+- 淇锛?寮€鍙戞ā寮忕姝㈡鏌ユ洿鏂?鏀逛负鎸夋瀯寤虹被鍨嬪垽瀹氾紝Release 鐗堜换鎰忕増鏈彿鍧囧彲姝ｅ父妫€鏌ユ洿鏂?
+
+## 鏇存柊 (v1.1.0)
 
 - 娣诲姞锛歶Tools 椋庢牸棣栭〉鍚姩鍙帮紝鍓创鏉垮巻鍙诧紙鏂囨湰/鍥剧墖/鏂囦欢锛夈€佷复鏃朵腑杞偓娴獥
 - 娣诲姞锛氬壀璐存澘澶氶€夈€佸彸閿彍鍗曘€佸悎骞跺鍒剁矘璐淬€佸崟鍑诲垏鎹㈤€変腑涓庨€変腑璁℃暟
@@ -22,4 +26,4 @@
 - [瀹夎鍗歌浇](https://stranslate.zggsong.com/docs/(un)install.html)
 - [FAQ](https://stranslate.zggsong.com/docs/faq.html)
 
-**瀹屾暣鏇存柊鏃ュ織:** [v1.1.0](https://github.com/libai6666/TransFox/releases/tag/v1.1.0)
+**瀹屾暣鏇存柊鏃ュ織:** [v1.1.1](https://github.com/libai6666/TransFox/releases/tag/v1.1.1)
