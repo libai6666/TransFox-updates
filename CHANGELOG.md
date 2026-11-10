@@ -1,3 +1,8 @@
+## 更新 (v1.1.9)
+
+- 添加：剪贴板条目右键菜单新增"备注"，可标注内容用途并直接显示在条目卡片上（悬浮中转窗同步支持）
+- 优化：剪贴板搜索同时匹配备注内容，收藏项可按备注找回
+
 ## 更新 (v1.1.8)
 
 - 优化：收藏项不再在剪贴板列表置顶，统一按时间排序，只在收藏页展示
@@ -64,4 +69,4 @@
 - [安装卸载](https://stranslate.zggsong.com/docs/(un)install.html)
 - [FAQ](https://stranslate.zggsong.com/docs/faq.html)
 
-**完整更新日志:** [v1.1.1](https://github.com/libai6666/TransFox/releases/tag/v1.1.1)
+**完整更新日志:** [v1.1.9](https://github.com/libai6666/TransFox/releases/tag/v1.1.9)
