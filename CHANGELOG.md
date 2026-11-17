@@ -1,3 +1,8 @@
+## 更新 (v1.1.10)
+
+- 添加：托盘右键菜单新增"检查更新"入口，并显示当前版本号
+- 修复：剪贴板页搜索框在默认窗口宽度下被裁剪不可见，顶栏改为两行布局、搜索框随窗口宽度自适应
+
 ## 更新 (v1.1.9)
 
 - 添加：剪贴板条目右键菜单新增"备注"，可标注内容用途并直接显示在条目卡片上（悬浮中转窗同步支持）
@@ -69,4 +74,4 @@
 - [安装卸载](https://stranslate.zggsong.com/docs/(un)install.html)
 - [FAQ](https://stranslate.zggsong.com/docs/faq.html)
 
-**完整更新日志:** [v1.1.9](https://github.com/libai6666/TransFox/releases/tag/v1.1.9)
+**完整更新日志:** [v1.1.10](https://github.com/libai6666/TransFox/releases/tag/v1.1.10)
