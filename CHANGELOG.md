@@ -1,3 +1,9 @@
+## 更新 (v1.1.11)
+
+- 添加：更新包未成功应用（重启后仍为旧版本）时启动提示，并指引 Velopack 日志位置便于排查
+- 修复：全局热键设为修饰键组合（Alt+Alt、Ctrl+Ctrl 等）时不生效
+- 修复：更新下载进度窗口偶发"只读属性无法绑定"的 UI 线程异常
+
 ## 更新 (v1.1.10)
 
 - 添加：托盘右键菜单新增"检查更新"入口，并显示当前版本号
@@ -74,4 +80,4 @@
 - [安装卸载](https://stranslate.zggsong.com/docs/(un)install.html)
 - [FAQ](https://stranslate.zggsong.com/docs/faq.html)
 
-**完整更新日志:** [v1.1.10](https://github.com/libai6666/TransFox/releases/tag/v1.1.10)
+**完整更新日志:** [v1.1.11](https://github.com/libai6666/TransFox/releases/tag/v1.1.11)
